@@ -4,9 +4,8 @@
 # In[ ]:
 
 
-from setuptools import setup
-#or
-#from distutils.core import setup
+from setuptools import find_packages
+from distutils.core import setup
 setup(
     name="snowflake",
     version="1.0",
