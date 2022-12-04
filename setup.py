@@ -13,6 +13,6 @@ setup(
     author_email="ymz.li@fau.de",
     url="https://github.com/YMZLi/homework5_DSSS.git",
     packages=find_packages(),
-    install_requires=["numpy","turtle","random"]
+    install_requires=["numpy","turtle"]
 )
 
